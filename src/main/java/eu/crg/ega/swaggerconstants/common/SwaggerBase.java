@@ -3,7 +3,7 @@ package eu.crg.ega.swaggerconstants.common;
 public class SwaggerBase {
 
   // Instrumentation
-  public static final String DESCRIPTION = "Common operations to all services";
+  public static final String DESCRIPTION = "Common operations to all services 2";
   
   public static final String GET_STATUS = "Get status";
   public static final String GET_STATUS_NOTES = "";
