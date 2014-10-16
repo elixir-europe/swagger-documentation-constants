@@ -7,9 +7,6 @@ public class SwaggerSubmission {
   public static final String SUBMISSION_STATUS = "Submission status";
   public static final String SUBMISSION_STATUS_DESCRIPTION = "";
   
-  public static final String LIST_STUDIES = "List studies";
-  public static final String LIST_STUDIES_NOTES = "List all studies uploaded by the user logged in.";
-  
   public static final String NEW_SUBMISSION = "New submission";
   public static final String NEW_SUBMISSION_NOTES = "Returns the Id for the new submission.";
   public static final String NEW_SUBMISSION_TITLE = "Submission title";
@@ -28,5 +25,11 @@ public class SwaggerSubmission {
       "Deletes the submission provided. It must be in state DRAFT otherwise an exception will be thrown. It also deletes all metadata related to this submission that is not being used in any other submission.";
   public static final String DELETE_SUBMISSION = "Delete submission";
   public static final String DELETE_SUBMISSION_SUBMISSION_ID = "Submission Id";
+
+  public static final String LIST_STUDIES = "List studies";
+  public static final String LIST_STUDIES_NOTES = "List all studies uploaded by the user logged in.";
+  
+  public static final String LIST_DACS_NOTES = "List all DACs uploaded by the user logged in.";
+  public static final String LIST_DACS = "List DACs";
 
 }
