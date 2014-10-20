@@ -13,7 +13,7 @@ public class SwaggerAuth {
   public static final String USER_LOGIN_TYPES_NOTES = "";
   public static final String USER_LOGIN_TYPES = "List login types";
 
-  public static final String DATSETS_NOTES = "";
+  public static final String DATASETS_NOTES = "";
   public static final String DATASETS = "List datasets";
   public static final String DATASETS_USERNAME = "";
   public static final String DATASETS_RESOURCE = "Dataset stable Id, set this value to check permissions on this dataset";
