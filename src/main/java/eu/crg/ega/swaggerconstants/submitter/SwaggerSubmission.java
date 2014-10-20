@@ -9,8 +9,7 @@ public class SwaggerSubmission {
   
   public static final String NEW_SUBMISSION = "New submission";
   public static final String NEW_SUBMISSION_NOTES = "Returns the Id for the new submission.";
-  public static final String NEW_SUBMISSION_TITLE = "Submission title";
-  public static final String NEW_SUBMISSION_DESCRIPTION = "Submission long description";
+  public static final String NEW_SUBMISSION_DATA = "Title (required) and description (not required) of the new submission";
 
   public static final String GET_SUBMISSION = "View submission";
   public static final String GET_SUBMISSION_NOTES = "Retrieves an existing submission by Id";
