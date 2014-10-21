@@ -19,7 +19,7 @@ public class SwaggerEnums {
   public static final String LIST_DATASET_TYPE = "Dataset type accepted values";
   public static final String LIST_DATASET_TYPE_NOTES = "Valid values for the Dataset XML field DATASET_TYPE.";
   
-  public static final String LIST_STUDY_TYPE_NOTES = "Study type accepted values";
-  public static final String LIST_STUDY_TYPE = "Valid values for the Study XML field STUDY_TYPE.";
+  public static final String LIST_STUDY_TYPE = "Study type accepted values";
+  public static final String LIST_STUDY_TYPE_NOTES = "Valid values for the Study XML field STUDY_TYPE.";
   
 }
