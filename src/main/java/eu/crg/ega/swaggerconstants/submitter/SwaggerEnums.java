@@ -21,5 +21,8 @@ public class SwaggerEnums {
   
   public static final String LIST_STUDY_TYPE = "Study type accepted values";
   public static final String LIST_STUDY_TYPE_NOTES = "Valid values for the Study XML field STUDY_TYPE.";
+
+  public static final String LIST_FILE_TYPE_NOTES = "";
+  public static final String LIST_FILE_TYPE = "Run file type accepted values";
   
 }
