@@ -18,7 +18,7 @@ public class SwaggerSubmission {
   public static final String EDIT_SUBMISSION_NOTES = "Edits the submission provided. It must be in state DRAFT otherwise and exception will be thrown.";
   public static final String EDIT_SUBMISSION = "Edit an existing submission";
   public static final String EDIT_SUBMISSION_SUBMISSION_ID = "Submission Id";
-  public static final String EDIT_SUBMISSION_DESCRIPTION = "";
+  public static final String EDIT_SUBMISSION_DATA = "New values for title and description";
 
   public static final String DELETE_SUBMISSION_NOTES =
       "Deletes the submission provided. It must be in state DRAFT otherwise an exception will be thrown. It also deletes all metadata related to this submission that is not being used in any other submission.";
