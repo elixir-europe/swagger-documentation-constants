@@ -23,4 +23,7 @@ public class SwaggerMetadataSubmit {
   public static final String SUBMIT_DACS_NOTES = "Create one or more DACs.";
   public static final String SUBMIT_DACS = "Submit a new DAC";
 
+  public static final String SUBMIT_RUNS_NOTES = "";
+  public static final String SUBMIT_RUNS = "Submit a new run";
+
 }
