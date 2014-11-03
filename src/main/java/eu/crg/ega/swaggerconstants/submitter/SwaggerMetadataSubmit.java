@@ -26,4 +26,7 @@ public class SwaggerMetadataSubmit {
   public static final String SUBMIT_RUNS_NOTES = "";
   public static final String SUBMIT_RUNS = "Submit a new run";
 
+  public static final String SUBMIT_EXPERIMENTS_XML_NOTES = "";
+  public static final String SUBMIT_EXPERIMENTS_XML = "Upload an experiment XML file";
+  
 }
