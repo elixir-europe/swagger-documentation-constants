@@ -24,5 +24,8 @@ public class SwaggerEnums {
 
   public static final String LIST_FILE_TYPE_NOTES = "";
   public static final String LIST_FILE_TYPE = "Run file type accepted values";
+
+  public static final String LIST_CASE_CONTROL = "";
+  public static final String LIST_CASE_CONTROL_NOTES = "Valid values for case/control field in experiment form";
   
 }
