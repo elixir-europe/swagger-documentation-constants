@@ -23,8 +23,8 @@ public class SwaggerMetadataSubmit {
   public static final String SUBMIT_DACS_NOTES = "Create one or more DACs.";
   public static final String SUBMIT_DACS = "Submit a new DAC";
 
-  public static final String SUBMIT_RUNS_NOTES = "";
-  public static final String SUBMIT_RUNS = "Submit a new run";
+  public static final String SUBMIT_RUNS_SEQUENCING_NOTES = "";
+  public static final String SUBMIT_RUNS_SEQUENCING = "Submit a new run";
 
   public static final String SUBMIT_EXPERIMENTS_XML_NOTES = "";
   public static final String SUBMIT_EXPERIMENTS_XML = "Upload an experiment XML";
@@ -50,8 +50,8 @@ public class SwaggerMetadataSubmit {
   public static final String SUBMIT_SAMPLES_XML_NOTES = "";
   public static final String SUBMIT_SAMPLE_XML = "XML content with sample data";
 
-  public static final String SUBMIT_RUNS_XML = "Upload a run XML";
-  public static final String SUBMIT_RUNS_XML_NOTES = "";
+  public static final String SUBMIT_RUNS_SEQUENCING_XML = "Upload a run XML";
+  public static final String SUBMIT_RUNS_SEQUENCING_XML_NOTES = "";
   public static final String SUBMIT_RUN_XML = "XML content with run data";
 
 }
