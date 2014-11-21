@@ -25,7 +25,19 @@ public class SwaggerEnums {
   public static final String LIST_FILE_TYPE_NOTES = "";
   public static final String LIST_FILE_TYPE = "Run file type accepted values";
 
-  public static final String LIST_CASE_CONTROL = "";
-  public static final String LIST_CASE_CONTROL_NOTES = "Valid values for case/control field in experiment form";
+  public static final String LIST_CASE_CONTROL = "Case/control accepted values";
+  public static final String LIST_CASE_CONTROL_NOTES = "Valid values for case/control field in sample form";
+
+  public static final String LIST_GENDER = "Gender accepted values ";
+  public static final String LIST_GENDER_NOTES = "Valid values for gender field in sample form";
+
+  public static final String LIST_GENOMES = "Genome values";
+  public static final String LIST_GENOMES_NOTES = "";
+
+  public static final String LIST_EXPERIMENT_TYPES = "Experiment types";
+  public static final String LIST_EXPERIMENT_TYPES_NOTES = "";
+
+  public static final String LIST_ANALYSIS_TYPES = "EGA elegible analysis types";
+  public static final String LIST_ANALYSIS_TYPES_NOTES = "";
   
 }
