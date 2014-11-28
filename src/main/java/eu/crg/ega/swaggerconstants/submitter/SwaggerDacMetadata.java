@@ -13,6 +13,7 @@ public class SwaggerDacMetadata {
 
   public static final String EDIT_DAC = "Modify existing DAC";
   public static final String EDIT_DAC_NOTES = "";
+  public static final String EDIT_ACTION = "Valid values: EDIT, VALIDATE";
 
   public static final String EDIT_DAC_VIA_XML = "Modify existing DAC using an XML as input";
   public static final String EDIT_DAC_VIA_XML_NOTES = "";
@@ -26,5 +27,8 @@ public class SwaggerDacMetadata {
 
   public static final String DELETE_DAC_NOTES = "Delete a DAC that is not used in any policy.";
   public static final String DELETE_DAC = "Delete a DAC";
+
+  public static final String GET_DAC = "View DAC";
+  public static final String GET_DAC_NOTES = "";
   
 }

@@ -19,5 +19,8 @@ public class SwaggerRunMetadata {
 
   public static final String DELETE_RUN_NOTES = "Delete a run that is not used in any dataset.";
   public static final String DELETE_RUN = "Delete a run";
+
+  public static final String GET_RUN_NOTES = "";
+  public static final String GET_RUN = "View run";
   
 }

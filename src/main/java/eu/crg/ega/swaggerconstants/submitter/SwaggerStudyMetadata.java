@@ -15,6 +15,7 @@ public class SwaggerStudyMetadata {
   public static final String EDIT_STUDY_NOTES = "";
   public static final String EDIT_STUDY = "Modify existing study";
   public static final String EDIT_STUDY_DATA = "";
+  public static final String EDIT_ACTION = "Valid values: EDIT, VALIDATE";
 
   public static final String EDIT_STUDY_VIA_XML = "Modify existing study using an XML as input";
   public static final String EDIT_STUDY_VIA_XML_NOTES = "";
@@ -28,5 +29,8 @@ public class SwaggerStudyMetadata {
 
   public static final String DELETE_STUDIES_NOTES = "Delete a study that is not used in any experiment or analysis.";
   public static final String DELETE_STUDIES = "Delete a study";
+
+  public static final String GET_STUDY = "View study";
+  public static final String GET_STUDY_NOTES = "";
 
 }

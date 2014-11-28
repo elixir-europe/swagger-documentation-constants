@@ -14,6 +14,7 @@ public class SwaggerExperimentMetadata {
   public static final String EDIT_EXPERIMENT_NOTES = "";
   public static final String EDIT_EXPERIMENT = "Modify existing experiment";
   public static final String EDIT_EXPERIMENT_DATA = "";
+  public static final String EDIT_ACTION = "Valid values: EDIT, VALIDATE";
 
   public static final String EDIT_EXPERIMENT_VIA_XML = "Modify existing experiment using an XML as input";
   public static final String EDIT_EXPERIMENT_VIA_XML_NOTES = "";
@@ -27,5 +28,8 @@ public class SwaggerExperimentMetadata {
   
   public static final String DELETE_EXPERIMENTS_NOTES = "Delete a experiment that is not used in any run.";
   public static final String DELETE_EXPERIMENTS = "Delete an experiment";
+
+  public static final String GET_EXPERIMENT = "View experiment";
+  public static final String GET_EXPERIMENT_NOTES = "";
   
 }
