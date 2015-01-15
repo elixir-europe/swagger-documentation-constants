@@ -14,6 +14,7 @@ public class SwaggerDacMetadata {
   public static final String EDIT_DAC = "Modify existing DAC";
   public static final String EDIT_DAC_NOTES = "";
   public static final String EDIT_ACTION = "Valid values: EDIT, VALIDATE";
+  public static final String EDIT_DAC_SUBMISSION_ACTION = "ADD for submitting new object, MODIFY for editing and VALIDATE for validating only";
 
   public static final String EDIT_DAC_VIA_XML = "Modify existing DAC using an XML as input";
   public static final String EDIT_DAC_VIA_XML_NOTES = "";

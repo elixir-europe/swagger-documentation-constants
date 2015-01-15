@@ -14,6 +14,7 @@ public class SwaggerDatasetMetadata {
   public static final String EDIT_DATASET = "Modify existing dataset";
   public static final String EDIT_DATASET_NOTES = "";
   public static final String EDIT_ACTION = "Valid values: EDIT, VALIDATE";
+  public static final String EDIT_DATASET_SUBMISSION_ACTION = "ADD for submitting new object, MODIFY for editing and VALIDATE for validating only";
 
   public static final String EDIT_DATASET_VIA_XML = "Modify existing dataset using an XML as input";
   public static final String EDIT_DATASET_VIA_XML_NOTES = "";
@@ -30,5 +31,5 @@ public class SwaggerDatasetMetadata {
 
   public static final String GET_DATASET = "View dataset";
   public static final String GET_DATASET_NOTES = "";
-
+  
 }

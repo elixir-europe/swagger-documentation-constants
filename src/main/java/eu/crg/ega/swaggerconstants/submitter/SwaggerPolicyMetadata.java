@@ -14,6 +14,7 @@ public class SwaggerPolicyMetadata {
   public static final String EDIT_POLICY = "Modify existing policy";
   public static final String EDIT_POLICY_NOTES = "";
   public static final String EDIT_ACTION = "Valid values: EDIT, VALIDATE";
+  public static final String EDIT_POLICY_SUBMISSION_ACTION = "ADD for submitting new object, MODIFY for editing and VALIDATE for validating only";
 
   public static final String EDIT_POLICY_VIA_XML = "Modify existing policy using an XML as input";
   public static final String EDIT_POLICY_VIA_XML_NOTES = "";
@@ -30,5 +31,5 @@ public class SwaggerPolicyMetadata {
 
   public static final String GET_POLICY_NOTES = "";
   public static final String GET_POLICY = "View policy";
-
+  
 }

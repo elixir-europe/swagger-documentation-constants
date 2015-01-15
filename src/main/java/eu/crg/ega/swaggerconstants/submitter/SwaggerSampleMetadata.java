@@ -14,6 +14,7 @@ public class SwaggerSampleMetadata {
   public static final String EDIT_SAMPLE = "Modify existing sample";
   public static final String EDIT_SAMPLE_NOTES = "";
   public static final String EDIT_ACTION = "Valid values: EDIT, VALIDATE";
+  public static final String EDIT_SAMPLE_SUBMISSION_ACTION = "ADD for submitting new object, MODIFY for editing and VALIDATE for validating only";
 
   public static final String EDIT_SAMPLE_VIA_XML = "Modify existing sample using an XML as input";
   public static final String EDIT_SAMPLE_VIA_XML_NOTES = "";
@@ -30,5 +31,5 @@ public class SwaggerSampleMetadata {
 
   public static final String GET_SAMPLE = "View sample";
   public static final String GET_SAMPLE_NOTES = "";
-
+  
 }

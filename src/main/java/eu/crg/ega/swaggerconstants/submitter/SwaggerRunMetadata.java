@@ -23,4 +23,8 @@ public class SwaggerRunMetadata {
   public static final String GET_RUN_NOTES = "";
   public static final String GET_RUN = "View run";
   
+  public static final String EDIT_RUN = "Edit a Run";
+  public static final String EDIT_RUN_NOTES = "";
+  public static final String EDIT_RUN_SUBMISSION_ACTION = "ADD for submitting new object, MODIFY for editing and VALIDATE for validating only";
+  
 }
