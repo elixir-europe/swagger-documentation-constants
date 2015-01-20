@@ -15,8 +15,7 @@ public class SwaggerSubmission {
   public static final String GET_SUBMISSION_NOTES = "Retrieves an existing submission by Id";
   public static final String GET_SUBMISSION_SUBMISSION_ID = "Submission Id";
 
-  public static final String EDIT_SUBMISSION_NOTES =
-      "Edits the submission provided. It must be in state DRAFT otherwise and exception will be thrown. If parameter ACTION is specified, all objects belonging to this submission will be send to EBI.";
+  public static final String EDIT_SUBMISSION_NOTES = "";
   public static final String EDIT_SUBMISSION = "Edit an existing submission";
   public static final String EDIT_SUBMISSION_SUBMISSION_ID = "Submission Id";
   public static final String EDIT_SUBMISSION_DATA = "New values for title and description";
