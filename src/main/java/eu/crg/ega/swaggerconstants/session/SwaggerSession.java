@@ -36,5 +36,8 @@ public class SwaggerSession {
   public static final String PERMISSIONS_SESSION_ID = "";
   public static final String PERMISSIONS_RESOURCE = "";
 
+  public static final String EXPIRE_SESSIONS_NOTES = "";
+  public static final String EXPIRE_SESSIONS = "Expire sessions";
+
 
 }
