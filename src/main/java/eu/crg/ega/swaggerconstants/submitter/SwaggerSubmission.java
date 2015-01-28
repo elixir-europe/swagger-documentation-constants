@@ -27,4 +27,8 @@ public class SwaggerSubmission {
   public static final String DELETE_SUBMISSION = "Delete submission";
   public static final String DELETE_SUBMISSION_SUBMISSION_ID = "Submission Id";
 
+  public static final String LIST = "List all submissions";
+  public static final String LIST_NOTES = "";
+  public static final String LIST_STATUS = "Status of the submissions";
+
 }
