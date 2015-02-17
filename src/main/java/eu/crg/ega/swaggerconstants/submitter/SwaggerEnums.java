@@ -32,12 +32,15 @@ public class SwaggerEnums {
   public static final String LIST_GENDER_NOTES = "Valid values for gender field in sample form";
 
   public static final String LIST_GENOMES = "Genome values";
-  public static final String LIST_GENOMES_NOTES = "";
+  public static final String LIST_GENOMES_NOTES = "Used in analysis (BAM and VCF types)";
 
   public static final String LIST_EXPERIMENT_TYPES = "Experiment types";
-  public static final String LIST_EXPERIMENT_TYPES_NOTES = "";
+  public static final String LIST_EXPERIMENT_TYPES_NOTES = "Used in analysis (VCF type)";
 
   public static final String LIST_ANALYSIS_TYPES = "EGA elegible analysis types";
-  public static final String LIST_ANALYSIS_TYPES_NOTES = "";
+  public static final String LIST_ANALYSIS_TYPES_NOTES = "Valid values for analysis type";
+
+  public static final String LIST_CHROMOSOMES = "Chromosome values";
+  public static final String LIST_CHROMOSOMES_NOTES = "Used in analysis (VCF type)";
   
 }
