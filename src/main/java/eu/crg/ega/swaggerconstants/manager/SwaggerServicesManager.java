@@ -1,10 +1,13 @@
-package eu.crg.ega.swaggerconstants.common;
+package eu.crg.ega.swaggerconstants.manager;
 
-public class SwaggerBase {
+public class SwaggerServicesManager {
 
-  // Instrumentation
-  public static final String DESCRIPTION = "Common operations to all services";
+  public static final String DESCRIPTION = "System configuration";
   
+  public static final String SERVICE_TYPE = "Service type";
+  public static final String VERSION = "Service's version";
+  
+  // Instrumentation
   public static final String GET_STATUS = "Get status";
   public static final String GET_STATUS_NOTES = "";
   
@@ -18,10 +21,6 @@ public class SwaggerBase {
   public static final String GET_COMMANDS_NOTES = "";
   public static final String GET_COMMANDS = "Get commands";
 
-  public static final String DELETE_CACHE = "Delete the specified";
-  public static final String DELETE_CACHE_NOTES = "";
-  public static final String DELETE_CACHE_NAME = "Name of the cache to delete";
-  
   // Log
   public static final String SET_LOG_LEVEL = "Set log level";
   public static final String SET_LOG_LEVEL_NOTES = "";
@@ -41,7 +40,9 @@ public class SwaggerBase {
   public static final String EVENTS_NOTES = "Send an event to the service";
   public static final String EVENTS = "Event";
   public static final String EVENTS_EVENT = "";
-  public static final String EVENTS_REPLY_TO = "";
-  public static final String EVENTS_TYPE = "";
+
+  public static final String DELETE_CACHE = "Delete the specified";
+  public static final String DELETE_CACHE_NOTES = "";
+  public static final String DELETE_CACHE_NAME = "Name of the cache to delete";
 
 }

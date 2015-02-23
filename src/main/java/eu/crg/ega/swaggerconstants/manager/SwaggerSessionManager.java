@@ -1,8 +1,8 @@
 package eu.crg.ega.swaggerconstants.manager;
 
-public class SwaggerManager {
+public class SwaggerSessionManager {
   
-  public static final String DESCRIPTION = "System management";
+  public static final String DESCRIPTION = "Session management";
   
   public static final String LIST_SESSIONS = "List sessions";
   public static final String LIST_SESSIONS_NOTES = "";
