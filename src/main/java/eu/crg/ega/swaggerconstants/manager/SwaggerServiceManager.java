@@ -1,6 +1,6 @@
 package eu.crg.ega.swaggerconstants.manager;
 
-public class SwaggerServicesManager {
+public class SwaggerServiceManager {
 
   public static final String DESCRIPTION = "System configuration";
   
