@@ -7,18 +7,18 @@ public class SwaggerAnalysisMetadata {
   public static final String SUBMIT_NOTES = "Create one or more analysiss.";
   public static final String SUBMIT = "Submit an new analysis";
 
-  public static final String SUBMIT_XML = "Upload an analysis XML";
-  public static final String SUBMIT_XML_NOTES = "";
-  public static final String SUBMIT_ANALYSIS_XML = "XML content with analysis data";
+  public static final String SUBMIT_VIA_XML = "Upload analyses using an XML";
+  public static final String SUBMIT_VIA_XML_NOTES = "";
+  public static final String SUBMIT_VIA_XML_ANALYSIS_XML = "XML content with analyses data";
 
   public static final String EDIT = "Modify existing analysis";
   public static final String EDIT_NOTES = "";
   public static final String EDIT_ACTION = "Valid values: EDIT, VALIDATE";
   public static final String EDIT_SUBMISSION_ACTION = "ADD for submitting new object, MODIFY for editing and VALIDATE for validating only";
 
-  public static final String EDIT_VIA_XML = "Modify existing analysis using an XML as input";
+  public static final String EDIT_VIA_XML = "Modify existing analyses using an XML";
   public static final String EDIT_VIA_XML_NOTES = "";
-  public static final String EDIT_VIA_XML_analysis_XML = "XML content";
+  public static final String EDIT_VIA_XML_ANALYSIS_XML = "XML content";
 
   public static final String LIST_USER = "List analysiss";
   public static final String LIST_USER_NOTES = "List all analysiss uploaded by the user logged in.";

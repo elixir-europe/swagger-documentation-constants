@@ -7,9 +7,9 @@ public class SwaggerRunMetadata {
   public static final String SUBMIT_SEQUENCING_NOTES = "";
   public static final String SUBMIT_SEQUENCING = "Submit a new run";
 
-  public static final String SUBMIT_SEQUENCING_XML = "Upload a run XML";
-  public static final String SUBMIT_SEQUENCING_XML_NOTES = "";
-  public static final String SUBMIT_RUN_XML = "XML content with run data";
+  public static final String SUBMIT_SEQUENCING_VIA_XML = "Upload a run XML";
+  public static final String SUBMIT_SEQUENCING_VIA_XML_NOTES = "";
+  public static final String SUBMIT_SEQUENCING_VIA_XML_RUN_XML = "XML content with run data";
 
   public static final String LIST_USER = "List runs";
   public static final String LIST_USER_NOTES = "List all runs uploaded by the user logged in.";
@@ -32,5 +32,9 @@ public class SwaggerRunMetadata {
   
   public static final String LIST_ACTIONS = "List actions";
   public static final String LIST_ACTIONS_NOTES = "";
+
+  public static final String EDIT_VIA_XML = "Modify existing runs using an XML";
+  public static final String EDIT_VIA_XML_NOTES = "";
+  public static final String EDIT_VIA_XML_RUN_XML = "XML content";
   
 }

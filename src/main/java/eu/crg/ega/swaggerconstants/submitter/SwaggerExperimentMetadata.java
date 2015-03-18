@@ -7,9 +7,9 @@ public class SwaggerExperimentMetadata {
   public static final String SUBMIT = "Submit a new experiment";
   public static final String SUBMIT_NOTES = "";
 
-  public static final String SUBMIT_XML_NOTES = "";
-  public static final String SUBMIT_XML = "Upload an experiment XML";
-  public static final String SUBMIT_EXPERIMENT_XML = "XML content with experiment data";
+  public static final String SUBMIT_VIA_XML_NOTES = "";
+  public static final String SUBMIT_VIA_XML = "Upload an experiment XML";
+  public static final String SUBMIT_VIA_EXPERIMENT_XML = "XML content with experiment data";
 
   public static final String EDIT_NOTES = "";
   public static final String EDIT = "Modify existing experiment";

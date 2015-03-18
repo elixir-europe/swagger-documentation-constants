@@ -7,9 +7,9 @@ public class SwaggerDacMetadata {
   public static final String SUBMIT_NOTES = "Create one or more DACs.";
   public static final String SUBMIT = "Submit a new DAC";
 
-  public static final String SUBMIT_XML = "Upload a DAC XML";
-  public static final String SUBMIT_XML_NOTES = "";
-  public static final String SUBMIT_DAC_XML = "XML content with DAC data";
+  public static final String SUBMIT_VIA_XML = "Upload a DAC XML";
+  public static final String SUBMIT_VIA_XML_NOTES = "";
+  public static final String SUBMIT_VIA_XML_DAC_XML = "XML content with DAC data";
 
   public static final String EDIT = "Modify existing DAC";
   public static final String EDIT_NOTES = "";

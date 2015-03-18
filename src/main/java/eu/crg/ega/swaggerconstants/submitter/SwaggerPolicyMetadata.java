@@ -7,9 +7,9 @@ public class SwaggerPolicyMetadata {
   public static final String SUBMIT = "Submit a new policy";
   public static final String SUBMIT_NOTES = "Create one or more policies.";
 
-  public static final String SUBMIT_XML = "Upload a policy XML";
-  public static final String SUBMIT_XML_NOTES = "";
-  public static final String SUBMIT_POLICY_XML = "XML content with policy data";
+  public static final String SUBMIT_VIA_XML = "Upload a policy XML";
+  public static final String SUBMIT_VIA_XML_NOTES = "";
+  public static final String SUBMIT_VIA_XML_POLICY_XML = "XML content with policy data";
 
   public static final String EDIT = "Modify existing policy";
   public static final String EDIT_NOTES = "";
@@ -17,7 +17,7 @@ public class SwaggerPolicyMetadata {
   public static final String EDIT_SUBMISSION_ACTION = "ADD for submitting new object, MODIFY for editing and VALIDATE for validating only";
 
   public static final String EDIT_VIA_XML = "Modify existing policy using an XML as input";
-  public static final String EDIT_POLICY_VIA_XML_NOTES = "";
+  public static final String EDIT_VIA_XML_NOTES = "";
   public static final String EDIT_VIA_XML_POLICY_XML = "XML content";
 
   public static final String LIST_USER_NOTES = "List all policies uploaded by the user logged in.";

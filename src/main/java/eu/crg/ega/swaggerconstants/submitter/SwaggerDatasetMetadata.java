@@ -7,9 +7,9 @@ public class SwaggerDatasetMetadata {
   public static final String SUBMIT_NOTES = "";
   public static final String SUBMIT = "Submit a new dataset";
 
-  public static final String SUBMIT_XML = "Upload a dataset XML";
-  public static final String SUBMIT_XML_NOTES = "";
-  public static final String SUBMIT_DATASET_XML = "XML content with dataset data";
+  public static final String SUBMIT_VIA_XML = "Upload a dataset XML";
+  public static final String SUBMIT_VIA_XML_NOTES = "";
+  public static final String SUBMIT_VIA_XML_DATASET_XML = "XML content with dataset data";
 
   public static final String EDIT = "Modify existing dataset";
   public static final String EDIT_NOTES = "";
