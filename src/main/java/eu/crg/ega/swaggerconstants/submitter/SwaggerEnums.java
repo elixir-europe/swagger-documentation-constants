@@ -46,7 +46,10 @@ public class SwaggerEnums {
   public static final String LIST_ACTIONS = "Action values";
   public static final String LIST_ACTIONS_NOTES = "Required when performing a PUT operation over a resource (submission, analysis, DAC, sample, etc.)";
 
-  public static final String LIST_STATUSES = "Status values";
-  public static final String LIST_STATUSES_NOTES = "Required when listing submissions or components (analyses, DACs, samples, etc.).";
+  public static final String LIST_ENTITY_STATUSES = "Entity status values";
+  public static final String LIST_ENTITY_STATUSES_NOTES = "Required when listing analyses, DACs, samples, etc.";
+
+  public static final String LIST_SUBMISSION_STATUSES = "Submission status values";
+  public static final String LIST_SUBMISSION_STATUSES_NOTES = "Required when listing submissions.";
   
 }
