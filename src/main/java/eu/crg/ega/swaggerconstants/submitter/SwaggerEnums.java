@@ -42,5 +42,11 @@ public class SwaggerEnums {
 
   public static final String LIST_CHROMOSOMES = "Chromosome values";
   public static final String LIST_CHROMOSOMES_NOTES = "Used in analysis (VCF type)";
+
+  public static final String LIST_ACTIONS = "Action values";
+  public static final String LIST_ACTIONS_NOTES = "Required when performing a PUT operation over a resource (submission, analysis, DAC, sample, etc.)";
+
+  public static final String LIST_STATUSES = "Status values";
+  public static final String LIST_STATUSES_NOTES = "Required when listing submissions or components (analyses, DACs, samples, etc.).";
   
 }
