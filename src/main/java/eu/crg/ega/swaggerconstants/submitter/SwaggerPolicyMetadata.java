@@ -13,8 +13,7 @@ public class SwaggerPolicyMetadata {
 
   public static final String EDIT = "Modify existing policy";
   public static final String EDIT_NOTES = "";
-  public static final String EDIT_ACTION = "Valid values: EDIT, VALIDATE";
-  public static final String EDIT_SUBMISSION_ACTION = "ADD for submitting new object, MODIFY for editing and VALIDATE for validating only";
+  public static final String EDIT_ACTION = "Valid values: EDIT, VALIDATE, SUBMIT";
 
   public static final String EDIT_VIA_XML = "Modify existing policy using an XML as input";
   public static final String EDIT_VIA_XML_NOTES = "";

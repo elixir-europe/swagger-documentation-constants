@@ -25,7 +25,7 @@ public class SwaggerRunMetadata {
   
   public static final String EDIT = "Edit a Run";
   public static final String EDIT_NOTES = "";
-  public static final String EDIT_SUBMISSION_ACTION = "ADD for submitting new object, MODIFY for editing and VALIDATE for validating only";
+  public static final String EDIT_ACTION = "Valid values: EDIT, VALIDATE, SUBMIT";
 
   public static final String GET_ACTIONS = "Get action";
   public static final String GET_ACTIONS_NOTES = "";

@@ -13,8 +13,7 @@ public class SwaggerAnalysisMetadata {
 
   public static final String EDIT = "Modify existing analysis";
   public static final String EDIT_NOTES = "";
-  public static final String EDIT_ACTION = "Valid values: EDIT, VALIDATE";
-  public static final String EDIT_SUBMISSION_ACTION = "ADD for submitting new object, MODIFY for editing and VALIDATE for validating only";
+  public static final String EDIT_ACTION = "Valid values: EDIT, VALIDATE, SUBMIT";
 
   public static final String EDIT_VIA_XML = "Modify existing analyses using an XML";
   public static final String EDIT_VIA_XML_NOTES = "";
