@@ -19,7 +19,7 @@ public class SwaggerSubmission {
   public static final String EDIT_SUBMISSION = "Edit an existing submission";
   public static final String EDIT_SUBMISSION_SUBMISSION_ID = "Submission Id";
   public static final String EDIT_SUBMISSION_DATA = "New values for title and description";
-  public static final String EDIT_SUBMIT_ACTION = "ADD for submitting new objects, MODIFY for editing and VALIDATE for validating only";
+  public static final String EDIT_SUBMIT_ACTION = "Command action";
   public static final String EDIT_SUBSET_DATA = "To specify the subset of objects to submit. In this case, submitAction parameter must not be empty";
   
   public static final String DELETE_SUBMISSION_NOTES =
