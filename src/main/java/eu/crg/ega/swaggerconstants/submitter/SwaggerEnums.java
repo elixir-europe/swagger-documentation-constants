@@ -51,5 +51,8 @@ public class SwaggerEnums {
 
   public static final String LIST_SUBMISSION_STATUSES = "Submission status values";
   public static final String LIST_SUBMISSION_STATUSES_NOTES = "Required when listing submissions.";
+
+  public static final String LIST_ANALYSIS_FILE_TYPE = "Analysis file type accepted values";
+  public static final String LIST_ANALYSIS_FILE_TYPE_NOTES = "";
   
 }
