@@ -36,5 +36,8 @@ public class SwaggerSampleMetadata {
   
   public static final String LIST_ACTIONS = "List actions";
   public static final String LIST_ACTIONS_NOTES = "";
+
+  public static final String SUBMIT_SAMPLES_VIA_CSV_NOTES = "";
+  public static final String SUBMIT_SAMPLES_VIA_CSV = "Upload a CSV file with sample data";
   
 }
