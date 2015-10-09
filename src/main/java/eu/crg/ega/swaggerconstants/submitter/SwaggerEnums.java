@@ -54,5 +54,8 @@ public class SwaggerEnums {
 
   public static final String LIST_ANALYSIS_FILE_TYPE = "Analysis file type accepted values";
   public static final String LIST_ANALYSIS_FILE_TYPE_NOTES = "";
+
+  public static final String LIST_LIBRARY_LAYOUT = "Library layout accepted values";
+  public static final String LIST_LIBRARY_LAYOUT_NOTES = "";
   
 }
