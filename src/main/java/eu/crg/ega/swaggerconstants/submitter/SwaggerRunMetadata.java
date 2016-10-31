@@ -36,5 +36,8 @@ public class SwaggerRunMetadata {
   public static final String EDIT_VIA_XML = "Modify existing runs using an XML";
   public static final String EDIT_VIA_XML_NOTES = "";
   public static final String EDIT_VIA_XML_RUN_XML = "XML content";
+
+  public static final String SUBMIT_RUNS_VIA_CSV_NOTES = "";
+  public static final String SUBMIT_RUNS_VIA_CSV = "Upload a CSV file with run data";
   
 }
